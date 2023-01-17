@@ -1,0 +1,134 @@
+{
+  "login": {
+    "welcome_to_chronos": "Bienvenue sur Mossahamati",
+    "you_are_not_registered": "Vous n'êtes pas inscrit",
+    "create_an_account": "Créer un compte",
+    "email": "E-mail",
+    "phone": "Num.téléphone",
+    "or":"Ou",
+    "password": "Mot de passe",
+    "forgot_your_password": "Mot de passe oublié",
+    "remember_me": "Se souvenir de moi",
+    "log_in": "Connexion",
+    "sign_in_with_google": "Connexion avec Google",
+    "error_email_obligatoire": "L'addresse email est nécessaire",
+    "error_password_obligatoire": "Mot de passe est nécessaire",
+    "error_email_invalid": "L'addresse email est invalide",
+    "error_password_invalid": "Mot de passe est invalide",
+    "error_email_not_exist": "Cette addresse email n'existe pas",
+    "error_credentials_invalid": "Vos accès sont incorrect"
+  },
+  "register": {
+    "sign_up": "S'inscrire",
+    "choose_your_country": "Choisissez votre pays",
+    "sign_up_with_google": "S'inscrire avec Google",
+    "or_enter_your_details_to_create_your_account": "Ou entrez vos coordonnées pour créer votre compte",
+    "full_name": "Nom complet",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirm_the_password": "Confirmez le mot de passe",
+    "i_accept_the": "J'accepte les",
+    "terms_and_conditions": "termes et conditions",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "error_country": "Vous devez choisir votre pays",
+    "error_fullname": "Le nom complet est nécessaire et doit contient minimum 3 caractères",
+    "error_email_obligatoire": "L'addresse email est nécessaire",
+    "error_email_exists": "Cette addresse email déjà utilisée",
+    "error_email_invalid": "L'addresse email est invalide",
+    "error_password_obligatoire": "Mot de passe est nécessaire et doit contenir minimum 8 caractères, une majuscule, une minuscule, un chiffre et un caractère spécial",
+    "error_password_missmatch": "Le mot de passe doit être identique",
+    "error_terms": "Merci d'accepter les termes et conditions"
+  },
+  "forgot_password": {
+    "forgot_your_password": "Mot de passe oublié",
+    "please_enter_your_email_to_reset_your_password": "Veuillez saisir votre e-mail pour réinitialiser votre mot de passe",
+    "email": "Email",
+    "send": "Envoyer",
+    "cancel": "Annuler",
+    "reset_your_password": "Réinitialiser votre mot de passe",
+    "check_your_email": "Vérifiez votre messagerie",
+    "we_sent_you_email_messages_title": "Nous avons envoyé un e-mail à {{user_name}}, cliquez sur le lien dans l'e-mail pour réinitialiser votre mot de passe",
+    "we_sent_you_email_messages_subtitle": "Si vous n'avez pas reçu l'e-mail, vérifiez votre dossier SPAM ou courrier indésirable."
+  },
+  "new_password": {
+    "new_password": "Nouveau mot de passe",
+    "please_enter_your_new_password": "Veuillez saisir votre nouveau mot de passe",
+    "confirm_the_new_password": "Confirmez le nouveau mot de passe",
+    "confirm": "Confirmer"
+  },
+  "check_email": {
+    "WELCOME_TITLE": "Votre compte est prêt !",
+    "WELCOME_HOME_DESC1": "Chronos vous permet de suivre l’activité de votre auto-entreprise.",
+    "WELCOME_HOME_DESC2": "Mais tout d’abord, commençons par paramétrer votre compte !",
+    "WELCOME_HOME_DESC3": "Ça ne prendra que quelques minutes !",
+    "WELCOME_HOME": "Bienvenue à Chronos",
+    "CONGRATS_USER": "{{name}}, nous y sommes presque!",
+    "CONFIRME_EMAIL": "Confirmer votre e-mail",
+    "WE_SENT_YOU_EMAIL": "Nous avons envoyé un e-mail à {{email}}, cliquez sur le lien dans l'e-mail pour vous connecter à Chronos!",
+    "CHECK_SPAM": "Si vous n'avez pas reçu l'e-mail, vérifiez votre dossier SPAM ou courrier indésirable.",
+    "BTN_LETS_GO": "C'est parti !"
+  },
+  "siret_setup": {
+    "title": "Veuillez saisir votre numéro de Siret",
+    "subtitle": "Vos informations sont en sécurité",
+    "not_found": "Le Siret que vous avez saisi n'est pas valide",
+    "siret_exists": "Siret already used",
+    "14digits_msg": "Votre Siret doit avoir 14 chiffres",
+    "verify_msg": "Vérifier si c'est bien votre activité et nom de société",
+    "next": "C'est bien moi",
+    "siret": "SIRET code",
+    "company_name": "Nom de la société",
+    "company_infos": "Infos société",
+    "activity_name": "Nom de l'activité"
+  },
+  "global_aside": {
+    "dashboard": "Tableau de board",
+    "administration": "Administration",
+    "finance": "Finance",
+    "social": "Sociale",
+    "production": "Production",
+    "knowledge": "Connaissance opérationelle",
+    "facilities": "Moyens généreaux"
+  },
+  "dashboard": {
+    "hello": "Bonjour"
+  },
+  "administration": {
+    "account_settings": "Paramètres du compte",
+    "files_management": "Gestion des documents",
+    "account": "Compte",
+    "company": "Société",
+    "company_infos": "Infos société",
+    "more_infos": "Compléments d'information",
+    "account_security": "Sécurité de compte",
+    "save_changes": "Sauvegarder les modifications"
+  },
+  "finance": {
+    "menu": {
+      "dashboard": "Dashboard",
+      "billing": "Facturation",
+      "bank_account": "Compte bancaire",
+      "accounting": "Comptabilité",
+      "declaration": "Télédéclaration",
+      "settings": "Paramètres"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "bill": "Facture",
+      "bills": "Factures" 
+    },
+    "bills": {
+      "title": "Liste des factures",
+      "line": "Ligne",
+      "lines": "Lignes",
+      "menu": {
+        "sent_bills": "Factures envoyées au comptable",
+        "saved_bills": "Factures réalisées",
+        "estimates": "Devis",
+        "drafts": "Brouillons"
+      }
+    }
+    
+  }
+}
